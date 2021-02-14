@@ -1,0 +1,40 @@
+id,name,sex,type,age,function,representation,position,cooperation
+TH,Thomas Hitzlsperger,1,0,38,V,1; 2; 3,1,n/a
+SH,Stefan Heim,1,0,50,V,4; 5; 6,2,n/a
+JR,Jochen Röttgermann,1,0,54,V,7; 8,2,n/a
+OS,Oliver Schraft,1,0,53,V,3,4,n/a
+CV,Claus Vogt,1,0,51,AR,n/a,1,n/a
+WP,Wilfried Porth,1,0,62,AR,n/a,3,n/a
+RA,Rainer Adrion,1,0,67,AR,n/a,4,n/a
+BG,Bernd Gaiser,1,0,59,AR,n/a,4,n/a
+HJ,Hartmut Jenner,1,0,55,AR,n/a,3,n/a
+HO,Hermann Ohlicher,1,0,71,AR,n/a,4,n/a
+FR,Franz Reiner,1,0,53,AR,n/a,4,n/a
+BS,Bertram Sugg,1,0,55,AR,n/a,4,n/a
+Reha-Welt,VfB Reha-Welt GmbH,n/a,1,n/a,n/a,n/a,n/a,1
+NeckarPark,Stadion NeckarPark GmbH & Co. KG,n/a,1,n/a,n/a,n/a,n/a,1
+Arena Betrieb,VfB Stuttgart Arena Betriebs GmbH,n/a,1,n/a,n/a,n/a,n/a,1
+Marketing,VfB Stuttgart Marketing GmbH,n/a,1,n/a,n/a,n/a,n/a,1
+Beteiligung,VfB Stuttgart Beteiligungs-GmbH,n/a,1,n/a,n/a,n/a,n/a,1
+Fußballverband,Württembergischer Fußballverband,n/a,1,n/a,n/a,n/a,n/a,2
+DFL,"Kommission ""Clubmedien“ der Deutschen Fußball Liga (DFL)",n/a,1,n/a,n/a,n/a,n/a,3
+Intesia,Intesia Group Holding GmbH,n/a,1,n/a,n/a,n/a,n/a,1
+PlayFair,FC PlayFair! Verein für Integrität im Profifußball e.V.,n/a,1,n/a,n/a,n/a,n/a,3
+Daimler,Daimler AG,n/a,1,n/a,n/a,n/a,n/a,1
+Kärcher,Alfred Kärcher SE & Co. KG,n/a,1,n/a,n/a,n/a,n/a,1
+FCB,FC Bayern München,n/a,1,n/a,n/a,n/a,n/a,3
+AVFC,Aston Villa,n/a,1,n/a,n/a,n/a,n/a,3
+ARD,Arbeitsgemeinschaft der öffentlich-rechtlichen Rundfunkanstalten der Bundesrepublik Deutschland,n/a,1,n/a,n/a,n/a,n/a,1
+VSD,Verband für Sportökonomie und Sportmanagement in Deutschland e.V. (VSD),n/a,1,n/a,n/a,n/a,n/a,2
+Sponsorcom,Sponsorcom,n/a,1,n/a,n/a,n/a,n/a,4
+IMG,International Management Group (IMG),n/a,1,n/a,n/a,n/a,n/a,1
+FIFA,FIFA,n/a,1,n/a,n/a,n/a,n/a,2
+VfL,VfL Wolfsburg,n/a,1,n/a,n/a,n/a,n/a,3
+Bosch,Robert Bosch GmbH,n/a,1,n/a,n/a,n/a,n/a,1
+Haniel,Haniel Konzern,n/a,1,n/a,n/a,n/a,n/a,1
+Metro,Metro Group,n/a,1,n/a,n/a,n/a,n/a,1
+DFB,Deutscher Fußball-Bund,n/a,1,n/a,n/a,n/a,n/a,2
+Horváth,Horváth & Partners Management Consultants,n/a,1,n/a,n/a,n/a,n/a,1
+RECARO,RECARO Holding GmbH,n/a,1,n/a,n/a,n/a,n/a,1
+Toto-Lotto,Staatliche Toto-Lotto GmbH Baden-Württemberg,n/a,1,n/a,n/a,n/a,n/a,1
+Courage,Fanclub Courage Gerlingen,n/a,1,n/a,n/a,n/a,n/a,5
