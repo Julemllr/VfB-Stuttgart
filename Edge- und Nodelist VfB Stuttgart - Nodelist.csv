@@ -1,0 +1,40 @@
+id,name,sex,type,age,function,representation,position,cooperation
+TH,Thomas Hitzlsperger,1,0,38,V,1; 2; 3,1,n/a
+SH,Stefan Heim,1,0,50,V,4; 5; 6,2,n/a
+JR,Jochen Roettgermann,1,0,54,V,7; 8,2,n/a
+OS,Oliver Schraft,1,0,53,V,3,4,n/a
+CV,Claus Vogt,1,0,51,AR,n/a,1,n/a
+WP,Wilfried Porth,1,0,62,AR,n/a,3,n/a
+RA,Rainer Adrion,1,0,67,AR,n/a,4,n/a
+BG,Bernd Gaiser,1,0,59,AR,n/a,4,n/a
+HJ,Hartmut Jenner,1,0,55,AR,n/a,3,n/a
+HO,Hermann Ohlicher,1,0,71,AR,n/a,4,n/a
+FR,Franz Reiner,1,0,53,AR,n/a,4,n/a
+BS,Bertram Sugg,1,0,55,AR,n/a,4,n/a
+Reha-Welt,VfB Reha-Welt,n/a,1,n/a,n/a,n/a,n/a,1
+NeckarPark,Stadion NeckarPark,n/a,1,n/a,n/a,n/a,n/a,1
+Arena Betrieb,VfB Arena Betrieb,n/a,1,n/a,n/a,n/a,n/a,1
+Marketing,VfB Marketing,n/a,1,n/a,n/a,n/a,n/a,1
+Beteiligung,VfB Beteiligung,n/a,1,n/a,n/a,n/a,n/a,1
+Fussballverband,Wuerttembergischer Fussballverband,n/a,1,n/a,n/a,n/a,n/a,2
+DFL,Deutsche Fussball Liga,n/a,1,n/a,n/a,n/a,n/a,3
+Intesia,Intesia Group,n/a,1,n/a,n/a,n/a,n/a,1
+PlayFair,FC PlayFair!,n/a,1,n/a,n/a,n/a,n/a,3
+Daimler,Daimler,n/a,1,n/a,n/a,n/a,n/a,1
+Kaercher,Alfred Kaercher,n/a,1,n/a,n/a,n/a,n/a,1
+FCB,FC Bayern Muenchen,n/a,1,n/a,n/a,n/a,n/a,3
+AVFC,Aston Villa,n/a,1,n/a,n/a,n/a,n/a,3
+ARD,ARD,n/a,1,n/a,n/a,n/a,n/a,1
+VSD,VSD,n/a,1,n/a,n/a,n/a,n/a,2
+Sponsorcom,Sponsorcom,n/a,1,n/a,n/a,n/a,n/a,4
+IMG,International Management Group,n/a,1,n/a,n/a,n/a,n/a,1
+FIFA,FIFA,n/a,1,n/a,n/a,n/a,n/a,2
+VfL,VfL Wolfsburg,n/a,1,n/a,n/a,n/a,n/a,3
+Bosch,Robert Bosch,n/a,1,n/a,n/a,n/a,n/a,1
+Haniel,Haniel,n/a,1,n/a,n/a,n/a,n/a,1
+Metro,Metro,n/a,1,n/a,n/a,n/a,n/a,1
+DFB,Deutscher Fussball-Bund,n/a,1,n/a,n/a,n/a,n/a,2
+Horvath,Horvath & Partners,n/a,1,n/a,n/a,n/a,n/a,1
+RECARO,RECARO,n/a,1,n/a,n/a,n/a,n/a,1
+Toto-Lotto,Toto-Lotto,n/a,1,n/a,n/a,n/a,n/a,1
+Courage,Fanclub Courage,n/a,1,n/a,n/a,n/a,n/a,5
