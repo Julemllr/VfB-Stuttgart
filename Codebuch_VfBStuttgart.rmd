@@ -14,19 +14,19 @@ to
 Nodelist
 
 sex
-1 = männlich
-2 = weiblich
+männlich = 1
+weiblich = 2
 
 type
-0 = person
-1 = organization
+person = 1
+organization = 2
 
 age
-Natürliche Zahlen = Alter
+Alter = Natürliche Zahlen
 
 function
-V = Vorstand
-AR = Aufsichtsrat
+Vorstand = 1
+Aufsichtsrat = 2
 
 representation (Funktion innerhalb der VfB Gremien)
 Sport = 1
