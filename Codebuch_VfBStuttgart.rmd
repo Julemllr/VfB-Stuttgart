@@ -1,34 +1,31 @@
----
-title: "Codebuch VfB Stuttgart"
-author: "Jule Müller"
-date: "14 2 2021"
-output: html_document
----
-Codebuch
+Codebuch VfB Stuttgart
 
 
-Edgelist
+#Edgelist
 from 
 to
 
-Nodelist
+#Nodelist
 
-sex
+## sex
 männlich = 1
 weiblich = 2
+keine Angabe = n/a
 
-type
+## type
 person = 1
 organization = 2
 
-age
+## age
 Alter = Natürliche Zahlen
+keine Angabe = n/a
 
-function
+##function
 Vorstand = 1
 Aufsichtsrat = 2
+keine Angabe = n/a
 
-representation (Funktion innerhalb der VfB Gremien)
+##representation (Funktion innerhalb der VfB Gremien)
 Sport = 1
 Unternehmensstrategie = 2
 Kommunikation = 3
@@ -37,18 +34,19 @@ Verwaltung = 5
 Operations = 6
 Marketing = 7
 Vertrieb = 8
+keine Angabe = n/a
 
-position
+##position
 Vorsitz = 1
 Vorstand = 2
 Stellvertreter = 3
 Mitglied in der VfB Organisation = 4
+keine Angabe = n/a
 
-cooperation (aktive Mitgliedschaften)
+##cooperation (aktive Mitgliedschaften)
 Unternehmen = 1
 Verband = 2
 Verein = 3
 Agentur = 4
 Fanclub = 5
-weitere Organisationen
 
